@@ -1,41 +1,17 @@
-# Compiled Lua sources
-luac.out
+💿 DroCord.lua 📦 Version : 0.2
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+📜 Changelock (19.08.2021 - version: 0.2)
+📁 RageBot
+Improved DoubleTap 🔩
+Added Baim 👕
+📁 Anti-Aim
+Updated Static 🚶
+Added Jitter 🏃
+Added Custom Yaw 🔼
+📁 Visual
+Added ClanTag 💬 *( clantag : drocord.lua )
+Added KeyBinds 📋 (Beta) screenshot - https://ibb.co/1LLxZSb
+Added WaterMark 📋 (Beta) screenshot - https://ibb.co/dWNLVKC
+📁 Misc
+Added Configs 💾 *( configs package : /nix/drocord )
+Added Accounts 👤 *( register on discord dm : droowie#4912 )
