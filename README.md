@@ -1,11 +1,9 @@
 # DroCord-LUA-Nixware
-💿 DroCord Beta 0.2
-🔸 NixWare Lua
+💿 DroCord.lua
+📦 Version : 0.2
 
 📜 Changelock (19.08.2021 - version: 0.2)
-
 📁 **RageBot**
-/n
 Improved DoubleTap 🔩
 Added Baim 👕
 📁 **Anti-Aim**
