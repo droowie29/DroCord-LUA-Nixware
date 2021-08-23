@@ -1,8 +1,8 @@
 # DroCord-LUA-Nixware
-Check file "info.json"
+Check file "help.json"
 
-📦 Last Version : **0.6**
+📦 Lastet Version : **0.6** *(* **Update not released!** *)*
 
-📦 Actuality Version : **0.6** *(* **Update released to beta testers!** *)*
+📦 Actuality Version : **0.5.1** *(* **Update released to beta testers!** *)*
 
 Changelock in file "changelock.json"
