@@ -1,5 +1,7 @@
 # DroCord-LUA-Nixware
-📦 Last Version : **Early 0.5.2**
-📦 Actuality Version : **0.5.1 Fixed** *(* **Update not released!** *)*
+Check file "info.json"
+
+📦 Last Version : **0.6**
+📦 Actuality Version : **0.6** *(* **Update released to beta testers!** *)*
 
 Changelock in file "changelock.json"
